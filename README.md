@@ -26,3 +26,5 @@ Emergency Autonomous Robot Design with Fuzzy Logic Control Approach
 
 [Dergi Internet Sayfası](https://ntmsci.com/CIWSN)
 
+## Abstract:
+
