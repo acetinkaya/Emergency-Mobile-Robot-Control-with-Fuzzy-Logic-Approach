@@ -40,3 +40,6 @@ In this study, the application of an autonomous fire extinguishing robot with a 
   
 - **MLA**: Cetinkaya, Ali, and Ali Okatan. "Emergency Autonomous Robot Design with Fuzzy Logic Control Approach." Computational Intelligence & Wireless Sensor Network 1.1 (2019).
 
+License:
+
+This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
