@@ -17,3 +17,12 @@ Emergency Autonomous Robot Design with Fuzzy Logic Control Approach
 ![alternatif metin](https://github.com/acetinkaya/Fuzzy-Logic-Controlled-Emergency-Mobile-Robot/blob/main/Emergency-fuzzy.png)
 
 ---
+
+##  Yayın Erişim Sayfaları
+
+[1. Araştma Yayın Linki](https://ntmsci.com/AjaxTool/GetArticleByPublishedArticleId?PublishedArticleId=8544)
+
+[ResearchGate](https://www.researchgate.net/publication/351993872_Emergency_Autonomous_Robot_Design_with_Fuzzy_Logic_Control_Approach)
+
+[Dergi Internet Sayfası](https://ntmsci.com/CIWSN)
+
