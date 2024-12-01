@@ -35,3 +35,6 @@ In this study, the application of an autonomous fire extinguishing robot with a 
 ## How to Cite / Nasıl Alıntı Yapılır
 
 - **IEEE**:  A. Cetinkaya, A. Okatan, "Emergency Autonomous Robot Design with Fuzzy Logic Control Approach", Computational Intelligence & Wireless Sensor Network, Volume: 1, Issue: 1, (SEPT 2019), pp:26-33
+
+- **APA**: Cetinkaya, A., & Okatan, A. (2019). Emergency Autonomous Robot Design with Fuzzy Logic Control Approach. Computational Intelligence & Wireless Sensor Network, 1(1).         
+
