@@ -1,4 +1,4 @@
-# Emergency-Mobile-Robot-with-Fuzzy-Logic-Control
+# Emergency-Mobile-Robot-Control-with-Fuzzy-Logic-Control
 
 Emergency Autonomous Robot Design with Fuzzy Logic Control Approach
 
