@@ -20,7 +20,7 @@ Emergency Autonomous Robot Design with Fuzzy Logic Control Approach
 
 ##  Yayın Erişim Sayfaları
 
-[Çalışma Yayın Linki PDF](https://ntmsci.com/AjaxTool/GetArticleByPublishedArticleId?PublishedArticleId=8544)
+[Çalışma Yayını PDF](https://ntmsci.com/AjaxTool/GetArticleByPublishedArticleId?PublishedArticleId=8544)
 
 [ResearchGate](https://www.researchgate.net/publication/351993872_Emergency_Autonomous_Robot_Design_with_Fuzzy_Logic_Control_Approach)
 
