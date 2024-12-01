@@ -13,3 +13,7 @@ Emergency Autonomous Robot Design with Fuzzy Logic Control Approach
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
 
 ---
+
+![alternatif metin](https://github.com/acetinkaya/Fuzzy-Logic-Controlled-Emergency-Mobile-Robot/blob/main/Emergency-fuzzy.png)
+
+---
